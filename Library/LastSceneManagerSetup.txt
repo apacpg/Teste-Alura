@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Alura_UnityMobile3-Aula7/Alura_UnityMobile3-Aula7/Assets/Cenas/Ranking.unity
+  isLoaded: 1
+  isActive: 1

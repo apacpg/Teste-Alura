@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 59eabf864c8a857479298ebeae16c339
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - meuGerador: {instanceID: 0}
+  - ParticulaSangueZumbi: {fileID: 1713889116999138, guid: 0bd0cf4e7bc90db4cb1f45c4a9b7e07a,
+      type: 3}
+  - SomDeMorte: {instanceID: 0}
+  - KitMedicoPrefab: {fileID: 1060151288946202, guid: 6150c6f66b7034ec5b3672478195682a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
